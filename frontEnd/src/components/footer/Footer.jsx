@@ -31,7 +31,7 @@ const Footer = () => {
 
         <div className="footer__copyright">
           <small>
-            &copy; Ghutai Zaki || All Rights Reserved
+            &copy; Ameera Ahmadzai || All Rights Reserved
           </small>
         </div>
     </footer>
